@@ -19,7 +19,7 @@ $ flutter packages get
 
 ## Configuration
 
-## add properties in info.plist in iOS
+### add properties in info.plist in iOS
 
 ```
 <key>LSApplicationQueriesSchemes</key>
