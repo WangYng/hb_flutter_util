@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - hb_flutter_util (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - hb_flutter_util (from `.symlinks/plugins/hb_flutter_util/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  hb_flutter_util:
+    :path: ".symlinks/plugins/hb_flutter_util/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  hb_flutter_util: 83d81d5e7c13ce9477b6fc196a9f2812cca9e8ce
+
+PODFILE CHECKSUM: 8e679eca47255a8ca8067c4c67aab20e64cb974d
+
+COCOAPODS: 1.10.1
