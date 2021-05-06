@@ -8,7 +8,7 @@ A common Utils for Flutter.
 
 ```yaml
 dependencies:
-  hb_flutter_util: ^0.0.1
+  hb_flutter_util: ^0.0.2
 ```
 
 2. Install it
